@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Evgeny Mushtatov Blog
 
-I'm glad you are here. I plan to talk about ...
+## Welcome to my blog
+
+I'm glad you are here. I plan to talk about AI, Machine Learning and _maybe_ **something** else.
+
+Wait for next updates ...
